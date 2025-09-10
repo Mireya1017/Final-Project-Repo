@@ -14,5 +14,5 @@ Practicar el uso de GitHub UI y Git CLI en la gestión de proyectos y repositori
    bash simple-interest.sh
 
 ## Autor
-- Nombre: Mireya Alvarez 
+- Nombre: Mireya Daniela Alvarez Aceytuno 
 - Contacto: mdalvarezaceytuno@gmail.com
